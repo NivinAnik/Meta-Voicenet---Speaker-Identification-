@@ -104,3 +104,8 @@ Raja123-sample1.wav
 Raja123-sample2.wav
 Raja123-sample3.wav
 Raja123-sample4.wav
+Nivinanik-sample0.wav
+Nivinanik-sample1.wav
+Nivinanik-sample2.wav
+Nivinanik-sample3.wav
+Nivinanik-sample4.wav
